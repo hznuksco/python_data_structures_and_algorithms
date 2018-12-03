@@ -43,3 +43,7 @@ def test_array():
     assert len(a) == 10
 
 # py.test array_and_list.py
+
+
+if __name__ == '__main__':
+    test_array()
